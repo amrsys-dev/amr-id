@@ -1,0 +1,8 @@
+name = "amr-id"
+main = "src/main.py"
+compatibility_date = "2026-11-05"
+compatibility_flags = ["python_workers"]
+
+[[kv_namespaces]]
+binding = "AMR_KV"
+id = "REPLACE_WITH_YOUR_KV_ID"
